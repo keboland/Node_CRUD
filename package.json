@@ -1,0 +1,22 @@
+{
+  "name": "node_crud",
+  "version": "1.0.0",
+  "description": "Node_CRUD",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keboland/Node_CRUD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keboland/Node_CRUD/issues"
+  },
+  "homepage": "https://github.com/keboland/Node_CRUD#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
